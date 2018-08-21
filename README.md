@@ -42,7 +42,7 @@ remember it!" Even the last item!
 **Layer 3 - Network**
 
   1. Is the default route set? Is the netmask set correctly? 
-  2. [http://www.psc.edu/~mathis/MTU/index.html ](http://www.psc.edu/%7Emathis/MTU/index.html): Six classes of bugs limit network performance.    
+  2. Six classes of bugs limit network performance.    
     * packet losses, corruption, congestion, bad hardware    
     * IP Routing, long round trip times    
     * Packet reordering    
